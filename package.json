@@ -1,0 +1,18 @@
+{
+  "name": "traversmedia",
+  "version": "1.0.0",
+  "description": "my test app",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "sazzad",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  }
+}
